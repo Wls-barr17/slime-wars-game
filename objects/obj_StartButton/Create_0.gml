@@ -1,0 +1,1 @@
+global.MenuSound = audio_play_sound(Inicio, 0, true);
