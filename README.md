@@ -57,4 +57,4 @@ It’s simple, fun, and chaotic!
 
 1. Clone or download the repository:
    ```bash
-   git clone https://github.com/YourUsername/SlimeCombat.git
+   git clone https://github.com/WilsonBarr654/Slime_Combat
