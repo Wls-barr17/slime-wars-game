@@ -1,6 +1,6 @@
-# 🧪 Slime Combat
+# 🫟 Slime Combat
 
-**Slime Combat** is a fast-paced **2-player arena fighting game** where two slimes battle it out for victory!  
+**Slime Combat** is a fast-paced **2-player arena fighting game** where two slimes-warriors battle it out for victory!  
 Built using **GameMaker**, this project focuses on player movement, collision handling, and responsive combat mechanics.
 
 ---
