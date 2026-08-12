@@ -125,7 +125,8 @@ Slime Wars uses a simple pixel-art visual style designed around readable and res
 
 ```bash
 git clone https://github.com/YOUR-USERNAME/slime-wars-game.git
-cd slime-wars-game
+cd slime-wars-game 
+```
 
 ## 🚀 How to Run
 
